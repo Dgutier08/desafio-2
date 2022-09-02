@@ -1,0 +1,20 @@
+.App  {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+.FormInput{
+  padding: 20px 0 0 0;
+  gap: 10px;
+}
+
+.section {
+  width: 60%;
+}
+
+.title {
+  padding: 0 0 30px 0;
+}
